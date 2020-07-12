@@ -1,7 +1,7 @@
 ---
-title: 'Chapter 1: Getting started (País, Neñe, etc.?)'
+title: 'Capítulo 1: Introducción'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
+  'En este capítulo enseñamos sobre many cool things and introduce you to the
   most important concepts of the course.'
 prev: null
 next: /chapter2
